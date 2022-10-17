@@ -1,0 +1,16 @@
+:root{
+    --preto:#101828;
+    --cinza:#667085;
+    --vermelho:#8E2424;
+    }
+
+    h3{
+        color: #8E2424;
+        text-align: center;
+    }
+    h1{color: #101828;
+    text-align: center
+    }
+    p{
+        color: #667085;
+    }

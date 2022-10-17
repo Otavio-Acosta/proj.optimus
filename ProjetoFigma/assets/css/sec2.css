@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    justify-content: space-around;
+}
+.n1{
+    color: #8E2424;
+    font-size: 60px;
+}
+.titulosvalores{
+    color: #101828;
+    font-size: 18px;
+}
